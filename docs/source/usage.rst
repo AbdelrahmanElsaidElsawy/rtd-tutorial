@@ -1,9 +1,9 @@
 Usage test
 =====
 
-.. _installation:
+.. _installation: test
 
-Installation
+Installation test
 ------------
 
 To use Lumache, first install it using pip:
